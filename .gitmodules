@@ -5,3 +5,6 @@
 [submodule "licoread"]
 	path = licoread
 	url = https://github.com/jogaudard/licoread
+[submodule "readosense"]
+	path = readosense
+	url = https://github.com/jogaudard/readosense
